@@ -1,8 +1,8 @@
 # app-todo-list
 
-Requirements:
+Stack:
 * Node.js (v8.12.0)
-* React.js (15.4.2)
+* React.js (v15.4.2)
 * Mongo DB (v3.2.21)
 
 Clone this repository and get into the folder
@@ -23,6 +23,11 @@ To run the frontend (React.js)
 cd frontend
 npm install
 npm run dev
+```
+
+To run the project
+```
+http://127.0.0.1:8080
 ```
 
 Author:
